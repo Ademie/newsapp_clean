@@ -30,3 +30,9 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  fonts:
+    - family: Muli
+      fonts:
+        - asset: assets/fonts/muli/Muli-Bold.ttf
+        - asset: assets/fonts/muli/Muli-Light.ttf
+        - asset: assets/fonts/muli/Muli.ttf
