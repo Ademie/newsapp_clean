@@ -7,10 +7,9 @@ Clean architecture is a blueprint for modular system which simply follows separa
     >>NETWORK
     >>USECASES
     >>UTIL
->>CONFIG(Themes, fonts, routes, etc)
+>>CONFIG(Themes, routes, etc)
     >>ROUTES
     >>THEME
-    >>FONTS
 >>FEATURE
     >>FEATURE_NAME
         >>DATA
